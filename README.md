@@ -18,4 +18,10 @@
   完结
 3、核心代码见附件
 四、实验结果
- 
+ ![image](https://github.com/kwy47/work1/blob/master/1.png)
+ ![image](https://github.com/kwy47/work1/blob/master/2.png)
+  ![image](https://github.com/kwy47/work1/blob/master/3.png)
+   ![image](https://github.com/kwy47/work1/blob/master/4.png)
+   五、实验感想
+    本实验很综合，十分考验个人的编程能力，以及对java的理解。这次实验，让我对Java有了更新一次的了解与认识，让我的编程能力有了显著的提升。
+     
